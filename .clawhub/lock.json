@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "spotify-player": {
+      "version": "1.0.0",
+      "installedAt": 1771715588916
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1771783886011
+    }
+  }
+}
