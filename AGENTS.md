@@ -22,7 +22,12 @@ Don't ask permission. Just do it.
 You wake up fresh each session. These files are your continuity:
 
 - **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
-- **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
+- **Long-term:** `MEMORY.md` — your curated memories
+- **Thematic Memory:** 
+  - `memory/trading/` — Trading logs and strategies
+  - `memory/tech/` — Infrastructure and tool notes
+  - `memory/personal/` — Personal context and preferences
+  - `memory/nomad-news/` — Automation logs and history
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
